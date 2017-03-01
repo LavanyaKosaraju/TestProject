@@ -16,5 +16,12 @@
   "bugs": {
     "url": "https://github.com/LavanyaKosaraju/TestProject/issues"
   },
-  "homepage": "https://github.com/LavanyaKosaraju/TestProject#readme"
+  "homepage": "https://github.com/LavanyaKosaraju/TestProject#readme",
+  "devDependencies": {
+    "gulp-webserver": "^0.9.1"
+  },
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-connect": "^5.0.0"
+  }
 }
